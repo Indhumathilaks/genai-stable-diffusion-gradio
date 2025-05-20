@@ -81,6 +81,7 @@ demo = gr.Interface(
 demo.launch()
 ```
 ### OUTPUT:
+![Untitled design](https://github.com/user-attachments/assets/966f3cae-b913-42ed-bc78-50e48c374856)
 
 ### RESULT:
 Successfully designed and deployed a prototype application for image generation using the Stable Diffusion model, demonstrating interactive user engagement and the ability to generate high-quality images from text prompts.
